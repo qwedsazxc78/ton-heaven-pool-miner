@@ -44,18 +44,18 @@
 ## 礦池情況 API
 
 1. 錢包目前算力總和 (https://ton.rich-thinking.com/rate/{錢包地址})
-   ```sh
    範例：
+   ```sh
    https://ton.rich-thinking.com/rate/EQDv9eExabxeFmiPigOE_NscTo_SXB9IwDXz975hPWjO_cGq
    ```
 2. 機台健康狀況 (
    https://ton.rich-thinking.com/miners/health/{錢包地址})
-   ```sh
    範例：
+   ```sh
    https://ton.rich-thinking.com/miners/health/EQDv9eExabxeFmiPigOE_NscTo_SXB9IwDXz975hPWjO_cGq
    ```
 3. 列出所有機台健康狀況 (https://ton.rich-thinking.com/miners/health/detail/{錢包地址})
-   ```sh
    範例：
+   ```sh
    https://ton.rich-thinking.com/miners/health/detail/EQDv9eExabxeFmiPigOE_NscTo_SXB9IwDXz975hPWjO_cGq
    ```
