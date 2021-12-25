@@ -31,10 +31,11 @@
 ## 注意事項
 
 1. 特別確認礦機目前使用版本，最新版為0.1.12
-2. 使用管理者的飛行儀表板，才能應用到大多數礦機
-3. 安裝版本的版號**一定要一樣**，否則會安裝失敗，或是跑起來有問題
+2. 目前只支援nvidia的顯卡，amd的正在開發中
+3. 使用管理者的飛行儀表板，才能應用到大多數礦機
+4. 安裝版本的版號**一定要一樣**，否則會安裝失敗，或是跑起來有問題
    https://github.com/qwedsazxc78/ton-heaven-pool-miner/releases/download/0.1.12/ton-heaven-pool-miner-0.1.12-hiveos.tar.gz
-4. 網址尾碼不可以有 "/" ，否則跑起來會有問題。
+5. 網址尾碼不可以有 "/" ，否則跑起來會有問題。
    例如下面例子，最後有多斜線會導致礦機辨認失誤
    https://ton.rich-thinking.com/
-5. 最新礦機下載網址： https://github.com/qwedsazxc78/ton-heaven-pool-miner/releases?page=1
+6. 最新礦機下載網址： https://github.com/qwedsazxc78/ton-heaven-pool-miner/releases?page=1
