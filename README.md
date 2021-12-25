@@ -39,3 +39,22 @@
    例如下面例子，最後有多斜線會導致礦機辨認失誤
    https://ton.rich-thinking.com/
 6. 最新礦機下載網址： https://github.com/qwedsazxc78/ton-heaven-pool-miner/releases?page=1
+
+
+## 礦池情況 API
+
+1. 錢包目前算力總和 (https://ton.rich-thinking.com/rate/{錢包地址})
+   ```sh
+   範例：https://ton.rich-thinking.com/rate/EQDv9eExabxeFmiPigOE_NscTo_SXB9IwDXz975hPWjO_cGq
+   ```
+2. 機台健康狀況 (
+   https://ton.rich-thinking.com/miners/health/{錢包地址})
+   ```sh
+   範例：
+   https://ton.rich-thinking.com/miners/health/EQDv9eExabxeFmiPigOE_NscTo_SXB9IwDXz975hPWjO_cGq
+   ```
+3. 列出所有機台健康狀況 (https://ton.rich-thinking.com/miners/health/detail/{錢包地址})
+   ```sh
+   範例：
+   https://ton.rich-thinking.com/miners/health/detail/EQDv9eExabxeFmiPigOE_NscTo_SXB9IwDXz975hPWjO_cGq
+   ```
