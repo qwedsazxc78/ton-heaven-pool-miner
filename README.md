@@ -11,7 +11,7 @@
 4. 客製化設定:
    - 安裝網址: 複製後貼上 hiveos 礦機設定
       ```sh
-      https://github.com/qwedsazxc78/ton-heaven-pool-miner/releases/download/0.1.12/ton-heaven-pool-miner-0.1.12-hiveos.tar.gz
+      https://github.com/qwedsazxc78/ton-heaven-pool-miner/releases/download/0.2.0/ton-heaven-pool-miner-0.2.0-hiveos.tar.gz
       ```
    - 礦機名稱: 輸入安裝網址後自動帶入
    - 演算法: 不輸入，留預設值
@@ -30,11 +30,11 @@
 
 ## 注意事項
 
-1. 特別確認礦機目前使用版本，最新版為0.1.12
+1. 特別確認礦機目前使用版本，最新版為0.2.0
 2. 目前只支援nvidia的顯卡，amd的正在開發中
 3. 使用管理者的飛行儀表板，才能應用到大多數礦機
 4. 安裝版本的版號**一定要一樣**，否則會安裝失敗，或是跑起來有問題
-   https://github.com/qwedsazxc78/ton-heaven-pool-miner/releases/download/0.1.12/ton-heaven-pool-miner-0.1.12-hiveos.tar.gz
+   https://github.com/qwedsazxc78/ton-heaven-pool-miner/releases/download/0.2.0/ton-heaven-pool-miner-0.2.0-hiveos.tar.gz
 5. 網址尾碼不可以有 "/" ，否則跑起來會有問題。
    例如下面例子，最後有多斜線會導致礦機辨認失誤
    https://ton.rich-thinking.com/
